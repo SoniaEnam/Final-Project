@@ -1,3 +1,5 @@
 # Final-Project
 
+# Abstract
+
 Power losses due to the growth in load is a major issue affecting the quality of electric power being delivered in the distribution system. One of the efforts in solving this problem is by the optimal placement of capacitors. The effectiveness of the capacitor installation depends on the location and size of the capacitor. In this work, the sizing and placement of the shunt capacitors was achieved using an improved particle swarm optimization algorithm with a modified inertia weighted control. The objective function for optimal sizing of the capacitor banks is the cost which is associated with the capacitor bank purchase, installation and cost of power loss. The loss sensitivity factor and backward forward sweep load flow algorithm was used in the selection of candidate buses for the placement of the capacitors. The effectiveness of the approach was tested on the IEEE 34-bus and simulated in the MATLAB environment. The proposed approach proved to be effective with a reduction in active power loss by 27.97%, reactive power loss by 28.13%, and a net saving of $9174.74
